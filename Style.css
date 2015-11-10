@@ -4,4 +4,4 @@
     margin:0 auto;
     background-color: black;}
     
-body { background-image: images/starbackground.jpg }
+body { background-image: url('images/starsbackground.jpg') }
