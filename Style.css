@@ -1,7 +1,35 @@
 .wrapper{
     width: 960px;
-    height: 700px;
-    margin:0 auto;
-    background-color: black;}
+    height: 960px;
+    margin:12px auto;
+    background-color: white;
+    border-radius: 15px}
     
-body { background-image: url('images/starsbackground.jpg') }
+html, body {
+     height: 100%;
+     background-image: url('images/starsbackground.jpg') }
+
+
+#banner{
+      padding:0 20px; }
+    
+#banner img{
+      display:block;
+      margin:15px auto;}
+      
+#nav ul { list-style-type: none; }
+
+#nav a { text-decoration: none;
+         color: #ffffff;
+         font-size: large;
+         padding: 15px; }
+        
+#nav li { display: inline; }
+
+
+#nav {text-align:center;
+    border: 2px solid black;
+	border-radius: 15px;
+    background-color: black ;
+    margin: 0 15px 0 15px ;}
+    
