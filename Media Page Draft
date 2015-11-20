@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<style>
+p {
+    border: 5px solid black;
+}
+
+body {
+    background-color: #b0c4de;
+}
+</style>
+<head>
+<title>Information About Movies and Books</title>
+</head>
+<body>
+
+<h1><center>Star Wars Media Coverage</Center></h1>
+<p><center> Star Wars is an American epic space opera franchise centered on a film series created by George Lucas.
+It depicts the adventures of various characters "a long time ago in a galaxy far, far away", following the
+main story of Anakin Skywalker and his son Luke. The first film in the series,
+Star Wars (later subtitled Episode IV: A New Hope), was released on May 25, 1977 by 20th Century Fox and
+became a worldwide pop culture phenomenon </center></p>
+
+<p><center><img src="1st movie.jpg" alt="HTML5 Icon" style="width:104px;height:128px;"> 1977
+
+<img src="2nd movie.jpg" alt="HTML5 Icon" style="width:104px;height:128px;">
+1980
+
+<img src="3rd movie.jpg" alt="HTML5 Icon" style="width:104px;height:128px;">
+1983
+
+<img src="4th movie.jpg" alt="HTML5 Icon" style="width:104px;height:128px;">
+1999
+
+<img src="5th movie.jpg" alt="HTML5 Icon" style="width:104px;height:128px;">
+2002
+
+<img src="6th movie.jpg" alt="HTML5 Icon" style="width:104px;height:128px;">
+2005
+
+<img src="7th movie.jpg" alt="HTML5 Icon" style="width:104px;height:128px;">
+2008
+
+<img src="8th movie.png" alt="HTML5 Icon" style="width:104px;height:128px;">
+2015
+
+<img src="9th movie.jpg" alt="HTML5 Icon" style="width:104px;height:128px;">
+2016
+
+<img src="10th movie.png" alt="HTML5 Icon" style="width:104px;height:128px;">
+2017
+
+<img src="11th movie.jpg" alt="HTML5 Icon" style="width:104px;height:128px;">
+2019
+</center></p2>
+
+</body>
+</html>
