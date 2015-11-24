@@ -36,11 +36,12 @@ html, body {
     
 
 .column-left{  float: left;
-               width: 60%;
+               width: 350px;
                height:100px;
-               margin: 0 15px 0 15px;}
+               margin: 0 0px 0 15px;}
                
                
 .column-right{ float: right;
-                width: 60%;
-                height:100px;}
+                width: 565px;
+                height:100px;
+                margin: 0 15px 0 0px;}
