@@ -5,6 +5,7 @@
     background-color: white;
     border-radius: 15px}
     
+
 html, body {
      height: 100%;
      background-image: url('Images/starsbackground.jpg');
@@ -36,12 +37,14 @@ html, body {
     
 
 .column-left{  float: left;
-               width: 350px;
-               height:100px;
-               margin: 0 0px 0 15px;}
+               width: 340px;
+               text-align: center;
+               margin: 15px 0px 0 15px;}
                
                
 .column-right{ float: right;
-                width: 565px;
-                height:100px;
-                margin: 0 15px 0 0px;}
+                width: 550px;
+                padding: 15px;
+                margin: 15px 15px 15px 0px;
+                background-color: #DCDCDC;
+                border-radius: 10px}
