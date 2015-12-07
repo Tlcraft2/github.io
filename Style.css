@@ -11,8 +11,9 @@ html, body {
      height: 100%;
      background-image: url('Images/starsbackground.jpg');}
 
-#Sithimage {
-	align: "middle"}
+#Sithtext { font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:36px; font-weight:bold;}
+
+#Sithtext2 { font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:18px; font-weight:bold;}
 
 #banner{
       padding:0 20px; }
