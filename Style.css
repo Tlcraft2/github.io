@@ -11,6 +11,8 @@ html, body {
      height: 100%;
      background-image: url('Images/starsbackground.jpg');}
 
+#Sithimage {
+	align: "middle"}
 
 #banner{
       padding:0 20px; }
