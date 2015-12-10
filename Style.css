@@ -1,6 +1,6 @@
 .wrapper{
     width: 960px;
-    height: 1200px;
+    overflow: auto;
     min-height: 100%;
     margin:12px auto;
     background-color: white;
